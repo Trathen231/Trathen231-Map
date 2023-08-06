@@ -27,7 +27,7 @@ public class Lab {
     public Map<Integer, String> createMap() {
         return new HashMap<>();
     }
-
+    
     /**
      * Get the size of a map (number of key/value pairs).
      *
